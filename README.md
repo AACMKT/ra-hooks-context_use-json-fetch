@@ -1,6 +1,6 @@
 # Custom hook for data fetching
 
-[![AACMKT ra-progects](https://github.com/AACMKT/ra-hoc_time/actions/workflows/web.yml/badge.svg)](https://github.com/AACMKT/ra-hooks-context_use-json-fetch/actions/workflows/web.yml)
+[![AACMKT ra-progects](https://github.com/AACMKTra-hooks-context_use-json-fetch/actions/workflows/web.yml/badge.svg)](https://github.com/AACMKT/ra-hooks-context_use-json-fetch/actions/workflows/web.yml)
 
 [Ссылка на публикацию приложения на GitHub Pages](https://aacmkt.github.io/ra-hooks-context_use-json-fetch/)
 
